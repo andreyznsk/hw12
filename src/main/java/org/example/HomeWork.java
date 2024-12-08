@@ -14,6 +14,7 @@ public class HomeWork {
      */
     @SneakyThrows
     public void frogSteps(InputStream in, OutputStream out) {
+        //Тут будет код
     }
 
 
